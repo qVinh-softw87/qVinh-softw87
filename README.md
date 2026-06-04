@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=TEN_GITHUB_CUA_BAN&color=0e76a8&style=flat&label=Profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=qVinh-softw87&color=0e76a8&style=flat&label=Profile+views)
 
 </div>
 
