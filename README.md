@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Undergraduate | University of Engineering and Technology, VNU</h3>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%231E73BE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false" alt="Profile views"/>
+  <img src="https://kkomi.mynaui.com/counter/qvinhere" alt="Profile views" />
 </p>
 
 ---
