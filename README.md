@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Quang Vinh Nguyen</h1>
 <h3 align="center">Computer Engineering Undergraduate | University of Engineering and Technology, VNU</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=qvinh-softw87&color=0e76a8&style=flat&label=Profile+views)
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=TEN_GITHUB_CUA_BAN&color=0e76a8&style=flat&label=Profile+views)
+
+</div>
 
 ---
 
