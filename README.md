@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quang Vinh Nguyen</h1>
 <h3 align="center">Computer Engineering Undergraduate | University of Engineering and Technology, VNU</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghvc/?username=qvinhere&label=Profile%20views&color=0e76a8&style=flat" alt="Profile views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=qvinh-softw87&color=0e76a8&style=flat&label=Profile+views)
 
 ---
 
@@ -93,24 +91,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="top languages" />
-</p>
-
----
-
-## 📂 Projects
-
-### 🎵 [Project Name 1](https://github.com/YOUR_GITHUB_USERNAME/project-link)
-* **Description:** A brief description of your awesome project.
-* **Tech Stack:** React, Tailwind CSS, Node.js
-
-### 🛍️ [Project Name 2](https://github.com/YOUR_GITHUB_USERNAME/project-link)
-* **Description:** Another cool project description.
-* **Tech Stack:** TypeScript, Express, MongoDB
 
 ---
 
