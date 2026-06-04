@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Undergraduate | University of Engineering and Technology, VNU</h3>
 
 <p align="center">
-  <img src="https://kkomi.mynaui.com/counter/qvinhere" alt="Profile views" />
+  <img src="https://komarev.com/ghvc/?username=qvinhere&color=blue&style=flat-square" alt="Profile views" />
 </p>
 
 ---
